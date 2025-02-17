@@ -1,0 +1,365 @@
+{
+  "main": {
+    "id": "0233341d6cccfbe9",
+    "type": "split",
+    "children": [
+      {
+        "id": "61cdbaf55fbb63ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebde9327772db688",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Системная аналитика/Оглавление.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Оглавление"
+            }
+          },
+          {
+            "id": "71ff04474151fdb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Системная аналитика/Глава 3/Работа с требованиями/Управление требованиями 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Управление требованиями 2"
+            }
+          },
+          {
+            "id": "c8e359e2332f6042",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Системная аналитика/Глава 3/Работа с требованиями/Управление требованиями.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Управление требованиями"
+            }
+          },
+          {
+            "id": "30384708f79ec32d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Системная аналитика/Глава 3/Работа с требованиями/Анализ требований.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Анализ требований"
+            }
+          },
+          {
+            "id": "8debdb29b92302e0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          },
+          {
+            "id": "30619f1cf06dcf02",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "e03ac0b828c84a54",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          },
+          {
+            "id": "cb6376249f01d05b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Системная аналитика/Глава 3/Работа с требованиями/Спецификация требований.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Спецификация требований"
+            }
+          },
+          {
+            "id": "bf64aa43ba2a9e26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Системная аналитика/Глава 3/Работа с требованиями/Анализ требований.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Анализ требований"
+            }
+          },
+          {
+            "id": "048d8cdd4f56c750",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Системная аналитика/Глава 3/Работа с требованиями/Управление требованиями.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Управление требованиями"
+            }
+          },
+          {
+            "id": "19c9a1fc2aa9b0c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Системная аналитика/Глава 3/Работа с требованиями/Обучение.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Обучение"
+            }
+          },
+          {
+            "id": "a4f694404e5f8f70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Системная аналитика/Глава 3/Работа с требованиями/Анализ требований.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Анализ требований"
+            }
+          },
+          {
+            "id": "a69b69f031af8eba",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          },
+          {
+            "id": "4db5f0f2d57e4fe4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Системная аналитика/Работа с требованиями/Каркас процесса создания требований.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Каркас процесса создания требований"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d339155c3a387eda",
+    "type": "split",
+    "children": [
+      {
+        "id": "e25086c5dab27010",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70cff979957f4406",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "f89c8415a0bca3a3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ce44fcdf1afd46ff",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "39ee57923b9a6b12",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0a838a7ac067a40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e2b8ebcb6dcee9a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "035e6193126436a8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "e4ee978c2ff5ca0d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f14c74e046850f01",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "8debdb29b92302e0",
+  "lastOpenFiles": [
+    "Системная аналитика/Оглавление.md",
+    "Системная аналитика/Глава 3/Работа с требованиями/Выявление требований.md",
+    "Без названия.canvas",
+    "Системная аналитика/Глава 4/Роль бизнес-аналитика.md",
+    "Системная аналитика/Глава 4/Бизнес аналитик.md",
+    "Системная аналитика/Глава 4/Задачи бизнес-аналитика.md",
+    "Системная аналитика/Глава 3/Работа с требованиями/Управление требованиями.md",
+    "Системная аналитика/Глава 3/Работа с требованиями/Управление требованиями 2.md",
+    "Системная аналитика/Глава 3/Работа с требованиями/Спецификация требований.md",
+    "Системная аналитика/Глава 3/Работа с требованиями/Рекомендуемые приемы формулирования требований.md",
+    "Системная аналитика/Глава 3/Работа с требованиями/Проверка требований.md",
+    "Системная аналитика/Глава 3/Работа с требованиями/Обучение.md",
+    "Системная аналитика/Глава 3/Работа с требованиями/Каркас процесса создания требований.md",
+    "Системная аналитика/Глава 3/Работа с требованиями/Анализ требований.md",
+    "Системная аналитика/Глава 4",
+    "HTTP",
+    "Системная аналитика/Глоссарий.md",
+    "Журнал обещаний/Обещания.md",
+    "Системная аналитика/Глава 3",
+    "Pasted image 20250215020224.png",
+    "Pasted image 20250215015250.png",
+    "Pasted image 20250215014055.png",
+    "Системная аналитика/Глава 3/Работа с требованиями",
+    "Системная аналитика",
+    "Сервис для отслеживания цен на товары в интернет-магазинах.md",
+    "Журнал обещаний",
+    "Billboards/Untitled",
+    "Billboards"
+  ]
+}

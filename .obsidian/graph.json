@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "Требования",
+      "color": {
+        "a": 1,
+        "rgb": 2538979
+      }
+    },
+    {
+      "query": "Требований",
+      "color": {
+        "a": 1,
+        "rgb": 2541800
+      }
+    },
+    {
+      "query": "Бизнес",
+      "color": {
+        "a": 1,
+        "rgb": 16711744
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -1.2,
+  "nodeSizeMultiplier": 2.396875,
+  "lineSizeMultiplier": 1.88645833333333,
+  "collapse-forces": false,
+  "centerStrength": 0,
+  "repelStrength": 0,
+  "linkStrength": 0,
+  "linkDistance": 37,
+  "scale": 0.5087618855792665,
+  "close": true
+}
