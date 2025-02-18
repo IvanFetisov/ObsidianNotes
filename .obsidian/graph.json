@@ -5,7 +5,7 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "Требования",
@@ -29,16 +29,16 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": -1.2,
   "nodeSizeMultiplier": 2.396875,
   "lineSizeMultiplier": 1.88645833333333,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0,
   "repelStrength": 0,
   "linkStrength": 0,
   "linkDistance": 37,
-  "scale": 0.713275462622456,
-  "close": true
+  "scale": 0.184623262258585,
+  "close": false
 }
