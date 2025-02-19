@@ -2,6 +2,7 @@
   "accentColor": "",
   "interfaceFontFamily": "Lucida Console",
   "baseFontSizeAction": true,
-  "cssTheme": "Obsidian Nord",
-  "theme": "obsidian"
+  "cssTheme": "deeper work",
+  "theme": "obsidian",
+  "baseFontSize": 23
 }
